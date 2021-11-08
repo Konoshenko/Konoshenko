@@ -2,7 +2,7 @@
 
 🎓 Completed Flutter course from [Surf Education](https://education.surf.ru/).
 
-![coderank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=konoshenko =100x20)
+![coderank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=konoshenko&width=300&height=100)
 
 <!--
 **Konoshenko/Konoshenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
