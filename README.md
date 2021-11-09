@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konoshenko&show_icons=true)
+
+![coderank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=konoshenko&width=220&height=30&show-header=false&branding=false&layout='horizontal')
+
+### Education
 🎓 Completed Flutter course from [Surf Education](https://education.surf.ru/).
-
-![coderank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=konoshenko&width=300&height=100)
-
 <!--
 **Konoshenko/Konoshenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
