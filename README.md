@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konoshenko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlkonoshenko&show_icons=true)
 
 ![coderank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=konoshenko&width=220&height=30&show-header=false&branding=false&layout='horizontal')
 
