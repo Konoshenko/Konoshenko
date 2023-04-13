@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlkonoshenko&show_icons=true)
-
 ### Education
 🎓 Completed Flutter course from [Surf Education](https://education.surf.ru/).
 <!--
